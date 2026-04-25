@@ -57,7 +57,7 @@ These patterns are invisible to single-turn benchmarks and directly mirror dynam
 | Llama-3.3-70B-Versatile | 1/5 | 0.60 | 0.0 | 0.0 | 0.0 | 2.4 | Late, high magnitude |
 
 <!-- PLACEHOLDER: replace with your actual file path -->
-result_images/drift_trajectory_scenario1.png
+![Scenario 1 Drift](result_images/drift_trajectory_scenario1.png)
 
 *Turn-level average drift scores across 5 runs per model. The strongest model remains flat at zero throughout. Llama-3.3-70B spikes sharply at T4 despite resisting through T1–T3 — the clearest instance of late-turn collapse. Llama-4-Scout shows earlier onset at T3, indicating generational alignment regression.*
 
