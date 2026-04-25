@@ -79,7 +79,7 @@ These patterns are invisible to single-turn benchmarks and directly mirror dynam
 | Llama-3.3-70B-Versatile | 2/5 | 1.30 | 0.0 | 0.6 | 1.4 | 1.6 | Consistent mid-conversation drift |
 
 <!-- PLACEHOLDER: replace with your actual file path -->
-![Scenario 2 Drift Trajectory](figures/drift_trajectory_scenario2_final.png)
+![Scenario 2 Drift Trajectory](result_images/drift_trajectory_scenario2_final.png)
 
 *All models rise toward T4 — unlike Scenario 1, no model holds flat across all runs. GPT-OSS-20B reaches the highest T4 average (2.4/3.0). The model with strongest Scenario 1 performance (dashed line) shows earlier resistance but fails at T4 in 3 of 5 runs under financial + family framing.*
 
