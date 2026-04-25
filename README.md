@@ -239,6 +239,8 @@ The attack arc structure — legitimate opening, reliance building, normalizatio
 - **Two scenarios** — future domains include health misinformation, political persuasion, and relationship manipulation
 - **Fixed sampling temperature** — robustness across temperature variation not yet characterized
 - **English-only** — cross-lingual generalization untested
+  
+- Note- I am reporting directional patterns rather than statistically significant differences due to small sample size (N=5). Preliminary bootstrap analysis suggests trends are consistent, but future work will validate with N≥30 and confidence intervals.
 
 ---
 
